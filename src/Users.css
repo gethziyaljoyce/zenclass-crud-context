@@ -1,0 +1,16 @@
+.Users {
+  margin-top: 5rem;
+  text-align: center;
+}
+h3 {
+  margin: 1rem;
+}
+.btn {
+  border-radius: 10px;
+  padding: 0.7rem;
+  margin: 0.5rem;
+  border: 2px solid rgb(77, 69, 69);
+}
+.btn:hover {
+  cursor: pointer;
+}

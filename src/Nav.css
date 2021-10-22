@@ -1,0 +1,20 @@
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background-color:black;
+  color:#444;
+  padding: 2rem;
+}
+.header-nav {
+  margin-left: 5rem;
+}
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+  align-items: center;
+  list-style: none;
+}
+Link:hover {
+  cursor: pointer;
+}
